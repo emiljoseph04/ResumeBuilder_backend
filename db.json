@@ -1,0 +1,69 @@
+{
+  "all-resumes": [
+    {
+      "id": "8400",
+      "professionalData": {
+        "name": "Emil Joseph",
+        "jobTitle": "Web devloper",
+        "location": "Kochi",
+        "email": "emilelizabath2004@gmail.com",
+        "phone": "9495936986",
+        "github": "emil@github.in",
+        "linkedin": "emil_joseph.in",
+        "portfolio": "emiljoseph.com"
+      },
+      "educationData": {
+        "course": "BSC CS",
+        "college": "MMC",
+        "university": "Kannur University",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "Inrernship",
+        "company": "Luminar Technolab",
+        "jobLocation": "Kakkanad",
+        "duration": "6 months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "44e5",
+      "professionalData": {
+        "name": "Don Joseph",
+        "jobTitle": "Mern Stack Developer",
+        "location": "Kochi",
+        "email": "donjoseph@gmail.com",
+        "phone": "6754398767",
+        "github": "don@github.in",
+        "linkedin": "donjoseph.in",
+        "portfolio": "donjoseph.com"
+      },
+      "educationData": {
+        "course": "B Tech",
+        "college": "Govt  Engineering College Mananthavady",
+        "university": "Kannur University",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "Job",
+        "company": "TCS",
+        "jobLocation": "Kochi",
+        "duration": "2 years"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "MONGODB",
+        "NODEJS"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
